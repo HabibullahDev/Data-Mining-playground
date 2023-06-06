@@ -31,7 +31,8 @@ In this project, the attempt is to classify data using neural networks with diff
 5. Finding an adequet value for learning rate (lr = 0.01) by testing various values.
 6. Design a sufficient NN to get the best result
 
-In the next step, the [fashion_mnist](https://www.tensorflow.org/datasets/catalog/fashion_mnist) dataset was loaded from the [TensorFlow](https://www.tensorflow.org) library that's also been used to implement the NNs. This dataset was trained on the NN, and the results were exhibited through a Confusion Matrix.  
+In the next step, the [fashion_mnist](https://www.tensorflow.org/datasets/catalog/fashion_mnist) dataset was loaded from the [TensorFlow](https://www.tensorflow.org) library that's also been used to implement the NNs. This dataset was trained on the NN, and the results were exhibited through a Confusion Matrix
+
 
 ## Association Rules
 
